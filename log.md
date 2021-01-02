@@ -20,7 +20,9 @@
 
 1. Completed the Basic CSS FreeCodeCamp challenges!
 
-**Thoughts:** Github has changed since I last used it! Excited to begin this journey into a new career. 
+**Thoughts:** To make some of the more advanced CSS styling concepts stick I need to create some Anki cards and take a deeper dive into both HTML and CSS.
+
+**TODO:** Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://www.amazon.co.uk/ as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date?
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/8-bit-koda)
 
