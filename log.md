@@ -22,7 +22,7 @@
 
 **Thoughts:** To make some of the more advanced CSS styling concepts stick I need to create some Anki cards and take a deeper dive into both HTML and CSS.
 
-**TODO:** Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://www.amazon.co.uk/ as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date?
+**TODO:** Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://amzn.to/2X2UJf1) as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date?
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/8-bit-koda)
 
