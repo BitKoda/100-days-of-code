@@ -26,3 +26,14 @@
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/8-bit-koda)
 
+### Day 2: January 03, 2021
+
+**Today's Progress**:
+
+1. Completed the Applied Visual Design FreeCodeCamp challenges!
+
+**Thoughts:** As per yesterday - must create those Anki cards and get a good book on both HTML and CSS. I'm thinking of [Responsive Web Design with HTML5 and CSS - Third Edition](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560). 
+
+**TODO:** Purchase a book on HTML and CSS (or a video course?)
+
+**Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/8-bit-koda)
