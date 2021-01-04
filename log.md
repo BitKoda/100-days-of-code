@@ -23,7 +23,7 @@
 **Thoughts:** To make some of the more advanced CSS styling concepts stick I need to create some Anki cards and take a deeper dive into both HTML and CSS.
 
 **TODO:** 
-1. Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://amzn.to/2X2UJf1) as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date? 
+~~1. Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://amzn.to/2X2UJf1) as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date?~~ 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/8-bit-koda)
 
@@ -36,7 +36,7 @@
 **Thoughts:** As per yesterday - must create those Anki cards and get a good book on both HTML and CSS. I'm thinking of [Responsive Web Design with HTML5 and CSS - Third Edition](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560). 
 
 **TODO:** 
-1. Purchase a book on HTML and CSS (or a video course?) 
+~~1. Purchase a book on HTML and CSS (or a video course?)~~ 
 
 **Link to work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/8-bit-koda)
 
