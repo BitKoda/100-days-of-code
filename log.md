@@ -66,7 +66,22 @@
 **Thoughts:** Although the exercises were simple to follow, thanks to step-by-step instructions, the concept of flexbox will take much more to fully understand it and embed into my brain. Looking forward to starting (maybe even completing) the CSS Grid challenges tomorrow and then it will be time to go back and review, write anki decks before moving on to the HTML/CSS book. Only once I have done this will I feel able to tackle the HTML and CSS projects on FCC. 
 
 **TODO:**
-1. Complete FCC CSS Grid
+~~1. Complete FCC CSS Grid
 
 **TODONE:** 
 1. FCC CSS Flexbox
+
+### Day 5(6): January 06, 2021
+
+**Today's Progress**:
+
+1. Finished FCC CSS Grid challenges!
+
+**Thoughts:** This was definitely more of a challenge than Flexbox. Some revision required here! Getting used to the syntax will take a little time. 
+
+**TODO:**
+1. Revise all FCC HTML and CSS challenges
+2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)
+
+**TODONE:** 
+~~1. FCC CSS Grid
