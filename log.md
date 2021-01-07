@@ -81,7 +81,22 @@
 
 **TODO:**
 1. Revise all FCC HTML and CSS challenges
-2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)
+~~2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)
 
 **TODONE:** 
 ~~1. FCC CSS Grid
+
+### Day 6(7): January 07, 2021
+
+**Today's Progress**:
+
+1. Read (and coded along) https://bit.ly/2MJqUOM by @benfrain to chapter 1 and (a third of) chapter 2.
+
+**Thoughts:** This was definitely more of a challenge than Flexbox. Some revision required here! Getting used to the syntax will take a little time. 
+
+**TODO:**
+1. Revise all FCC HTML and CSS challenges
+2. Finish chapter 2 of book.
+
+**TODONE:** 
+1. Chapter 1 Responsive Web Design with HTML5 and CSS
