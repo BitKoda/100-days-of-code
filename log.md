@@ -100,3 +100,18 @@
 
 **TODONE:** 
 1. Chapter 1 Responsive Web Design with HTML5 and CSS
+
+### Day 7(8): January 08, 2021
+
+**Today's Progress**:
+
+1. Read (and coded along) https://bit.ly/2MJqUOM by @benfrain to New semantic elements in HTML5 section in Chapter 2.
+
+**Thoughts:** Only managed an hour today (2 pomodoros). Made quite a few notes on this topic though. Mostly reading, almost no coding. 
+
+**TODO:**
+1. Revise all FCC HTML and CSS challenges
+2. Finish chapter 2 of book.
+
+**TODONE:** 
+~~1. Chapter 2.4 New semantic elements in HTML5 
