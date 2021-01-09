@@ -90,7 +90,7 @@
 
 **Today's Progress**:
 
-1. Read (and coded along) https://bit.ly/2MJqUOM by @benfrain to chapter 1 and (a third of) chapter 2.
+1. Read (and coded along) [RWD](https://bit.ly/2MJqUOM) by @benfrain to chapter 1 and (a third of) chapter 2.
 
 **Thoughts:** This was definitely more of a challenge than Flexbox. Some revision required here! Getting used to the syntax will take a little time. 
 
@@ -105,7 +105,7 @@
 
 **Today's Progress**:
 
-1. Read (and coded along) https://bit.ly/2MJqUOM by @benfrain to New semantic elements in HTML5 section in Chapter 2.
+1. Read (and coded along) [RWD](https://bit.ly/2MJqUOM) by @benfrain to New semantic elements in HTML5 section in Chapter 2.
 
 **Thoughts:** Only managed an hour today (2 pomodoros). Made quite a few notes on this topic though. Mostly reading, almost no coding. 
 
@@ -115,3 +115,18 @@
 
 **TODONE:** 
 ~~1. Chapter 2.4 New semantic elements in HTML5 
+
+### Day 8(9): January 09, 2021
+
+**Today's Progress**:
+
+1. Read and coded along and finished C2 of [RWD](https://bit.ly/2MJqUOM) -- apart from the final exercise!
+
+**Thoughts:** Only managed an hour today (2 pomodoros). Made quite a few notes on this topic though. Mostly reading, almost no coding - again! Also struggled to get the mp4 video to work in Firefox on Ununtu. Need to get that working soon! 
+
+**TODO:**
+1. Finish chapter 2 exercise
+2. Revise all FCC HTML and CSS challenges
+
+**TODONE:** 
+~~1. Chapter 2 of book~~ 
