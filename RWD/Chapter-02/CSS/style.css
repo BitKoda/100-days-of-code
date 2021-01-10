@@ -1,0 +1,48 @@
+body {
+	border-top: 2px solid rgb(255, 69, 0);
+	font-family: "Oswald";
+	max-width: 60rem;
+	margin: 0 auto;
+	color: #333;
+}
+
+
+#top {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	height: 100px;
+	margin: 30px 0 0 0;
+}
+
+#logo {
+	display: flex;
+	margin-top: -20px;
+	width: 50%;
+}
+
+#logo h1 {
+	font-size: 72px;
+	margin: 0px 0px 0px 0px;
+	text-transform: uppercase;
+}
+
+#logo p {
+	font-size: 14px;
+	text-transform: uppercase;
+	position: absolute;
+}
+
+#topnav {
+	display: flex;
+	justify-content: space-between;
+	width: 40%;
+}
+
+#topnav a {
+	color: #333;
+	font-size: 14px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
