@@ -66,7 +66,7 @@
 **Thoughts:** Although the exercises were simple to follow, thanks to step-by-step instructions, the concept of flexbox will take much more to fully understand it and embed into my brain. Looking forward to starting (maybe even completing) the CSS Grid challenges tomorrow and then it will be time to go back and review, write anki decks before moving on to the HTML/CSS book. Only once I have done this will I feel able to tackle the HTML and CSS projects on FCC. 
 
 **TODO:**
-~~1. Complete FCC CSS Grid
+~~1. Complete FCC CSS Grid~~
 
 **TODONE:** 
 1. FCC CSS Flexbox
@@ -81,10 +81,10 @@
 
 **TODO:**
 1. Revise all FCC HTML and CSS challenges
-~~2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)
+~~2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)~~
 
 **TODONE:** 
-~~1. FCC CSS Grid
+~~1. FCC CSS Grid~~
 
 ### Day 6(7): January 07, 2021
 
@@ -99,7 +99,7 @@
 2. Finish chapter 2 of book.
 
 **TODONE:** 
-1. Chapter 1 Responsive Web Design with HTML5 and CSS
+~~1. Chapter 1 Responsive Web Design with HTML5 and CSS~~
 
 ### Day 7(8): January 08, 2021
 
@@ -114,7 +114,7 @@
 2. Finish chapter 2 of book.
 
 **TODONE:** 
-~~1. Chapter 2.4 New semantic elements in HTML5 
+~~1. Chapter 2.4 New semantic elements in HTML5~~
 
 ### Day 8(9): January 09, 2021
 
@@ -145,4 +145,3 @@
 
 **TODONE:** 
 1. Not much it seems! 
-
