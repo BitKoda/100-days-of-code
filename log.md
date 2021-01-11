@@ -145,3 +145,18 @@
 
 **TODONE:** 
 1. Not much it seems! 
+
+### Day 10(11): January 11, 2021
+
+**Today's Progress**:
+
+1. Continued to code up C2 exercsie in [RWD](https://bit.ly/2MJqUOM)
+
+**Thoughts:** This exercise is still taking much longer than anticipated! CSS nav tooltip completed and that's about it! 
+
+**TODO:**
+1. Finish chapter 2 exercise
+2. Revise all FCC HTML and CSS challenges
+
+**TODONE:** 
+1. CSS tooltip completed 
