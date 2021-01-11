@@ -22,15 +22,18 @@ body {
 }
 
 #logo h1 {
+	display: flex;
 	font-size: 72px;
 	margin: 0px 0px 0px 0px;
 	text-transform: uppercase;
 }
 
 #logo p {
+	display: flex;
+	flex-direction: row-reverse;
+	align-content: flex-end;
 	font-size: 14px;
 	text-transform: uppercase;
-	position: absolute;
 }
 
 #topnav {
@@ -41,8 +44,78 @@ body {
 
 #topnav a {
 	color: #333;
-	font-size: 14px;
+	font-size: 16px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 150px;
+  height: 3.5em;
+  background-color: #F9F8F8;
+  color: #333;
+  font-size: 12px;
+  font-weight: 800;
+  text-align: center;
+  border: 2px solid #F1F1F1;
+  border-radius: 5px;
+  padding: 5px 0;
+  text-transform: uppercase;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: 200%;
+  right: -60%;
+  margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+  padding-top: 15px;
+  visibility: visible;
+}
+
+/**.tooltip:hover .tooltiplinks {
+  padding-top: 30px;
+  visibility: visible;
+  text-transform: capitalize;
+}**/
+
+.tooltip .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  bottom: 100%;  /* At the top of the tooltip */
+  left: 75%;
+  margin-left: -5px;
+  border-width: 12px;
+  border-style: solid;
+  border-color: transparent transparent #F1F1F1 transparent;
+}
+
+#pitch {
+  display: flex;
+  background-color: #262C28;
+  color: white;
+  width: 100%;
+  height: 500px;
+}
+
+#pitch header {
+	display: flex;
+	flex-direction: row;
+}
+
+#pitch span {
+	display: flex;
+	flex-direction: row;
+}
+#pitch h1 {
+	display: flex;
+	min-width: 100%;
+}
