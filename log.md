@@ -26,7 +26,7 @@
 **Thoughts:** To make some of the more advanced CSS styling concepts stick I need to create some Anki cards and take a deeper dive into both HTML and CSS.
 
 **TODO:** 
-~~1. Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://amzn.to/2X2UJf1) as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date?~~ 
+1. Purchase a book on HTML and CSS, maybe [Head First HTML and CSS](https://amzn.to/2X2UJf1) as recommended by [Derek Sivers](https://sive.rs)? Published in 2012, could this be out of date?
 
 ### Day 2(3): January 03, 2021
 
@@ -37,7 +37,7 @@
 **Thoughts:** As per yesterday - must create those Anki cards and get a good book on both HTML and CSS. I'm thinking of [Responsive Web Design with HTML5 and CSS - Third Edition](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560). 
 
 **TODO:** 
-~~1. Purchase a book on HTML and CSS (or a video course?)~~ 
+1. Purchase a book on HTML and CSS (or a video course?) 
 
 ### Day 3(4): January 04, 2021
 
@@ -50,7 +50,7 @@
 **Thoughts:** It feels like I am going too quickly through the FCC challenges for HTML and CSS. I am therefore going to complete the CSS Flexbox and CSS Grid on days 4(5) and 5(6), and then go back and read over the material again and add important information to some Anki slide decks. Once I have done this, I will read through [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560) (completing any exercises therein) before going on to complete the HTML and CSS Responsive Web Design Projects.
 
 **TODO:**
-~~1. Complete FCC CSS Flexbox~~
+1. Complete FCC CSS Flexbox
 
 **TODONE:** 
 1. Bought a subscription at Packt Press for access to books and videos on web development. :heavy_check_mark:
@@ -66,7 +66,7 @@
 **Thoughts:** Although the exercises were simple to follow, thanks to step-by-step instructions, the concept of flexbox will take much more to fully understand it and embed into my brain. Looking forward to starting (maybe even completing) the CSS Grid challenges tomorrow and then it will be time to go back and review, write anki decks before moving on to the HTML/CSS book. Only once I have done this will I feel able to tackle the HTML and CSS projects on FCC. 
 
 **TODO:**
-~~1. Complete FCC CSS Grid~~
+1. Complete FCC CSS Grid
 
 **TODONE:** 
 1. FCC CSS Flexbox
@@ -81,10 +81,10 @@
 
 **TODO:**
 1. Revise all FCC HTML and CSS challenges
-~~2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)~~
+2. Start reading [Responsive Web Design with HTML5 and CSS](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560)
 
 **TODONE:** 
-~~1. FCC CSS Grid~~
+1. FCC CSS Grid
 
 ### Day 6(7): January 07, 2021
 
@@ -99,7 +99,7 @@
 2. Finish chapter 2 of book.
 
 **TODONE:** 
-~~1. Chapter 1 Responsive Web Design with HTML5 and CSS~~
+1. Chapter 1 Responsive Web Design with HTML5 and CSS
 
 ### Day 7(8): January 08, 2021
 
@@ -126,7 +126,6 @@
 
 **TODO:**
 1. Finish chapter 2 exercise
-2. Revise all FCC HTML and CSS challenges
 
 **TODONE:** 
 ~~1. Chapter 2 of book~~ 
@@ -141,7 +140,6 @@
 
 **TODO:**
 1. Finish chapter 2 exercise
-2. Revise all FCC HTML and CSS challenges
 
 **TODONE:** 
 1. Not much it seems! 
@@ -156,7 +154,35 @@
 
 **TODO:**
 1. Finish chapter 2 exercise
-2. Revise all FCC HTML and CSS challenges
 
 **TODONE:** 
 1. CSS tooltip completed 
+
+### Day 11(12): January 12, 2021
+
+**Today's Progress**:
+
+1. Read some articles on Flexbox
+2. Hacked and slashed at various ways to try and bend css grid/flexbox to my will. Unsuccessfully.
+
+**Thoughts:** Going around in circles a bit. Then, as I go to bed an idea occurs to me...must try it out tomorrow. 
+
+**TODO:**
+1. Sort grid layout for C2 exercise page
+
+**TODONE:** 
+1. CSS tooltip completed 
+
+### Day 12(13): January 13, 2021
+
+**Today's Progress**:
+
+1. So the idea kind of works. Finally worked out how to layout the page for the C2 exercise in RWD book using CSS Grid (almost)
+
+**Thoughts:** Perhaps I'm just an impatient reader, but I have struggled to find really good, well explained tutorials on flexbox and CSS grid for a beginner. This could make a good Medium article!!!
+
+**TODO:**
+1. Get chapter 2 exercise layout finished
+
+**TODONE:** 
+1. Worked out the grid layout for exercise - well almost. Slight quirk with the width of on elements...
