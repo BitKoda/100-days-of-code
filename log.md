@@ -186,3 +186,17 @@
 
 **TODONE:** 
 1. Worked out the grid layout for exercise - well almost. Slight quirk with the width of on elements...
+
+### Day 13(14): January 14, 2021
+
+**Today's Progress**:
+1. Version 1 of RWD page exercise from Chapter 2 nearly complete.
+
+**Thoughts:** Progress at last - starting to get the hang of things!
+
+**TODO:**
+1. Finalise V1 of RWD page.
+
+**TODONE:** 
+1. Sorted the slight quirk with the width of on elements.
+2. First attempt at RWD page exercise from Chapter 2 nearly complete.
