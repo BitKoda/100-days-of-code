@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(../images/Large-Triangles.svg);
+ /* background-image: url(../images/hexagons.svg);*/
   border-top: 2px solid rgb(255, 69, 0);
   font-family: "Oswald";
   max-width: 960px;
@@ -38,8 +38,8 @@ header {
 }
 
 #logo h1 {
-  font-size: 72px;
-  margin: 0px;
+  font-size: 60px;
+  margin: 0px 0px 0px 20px;
   padding: 0px;
   text-transform: uppercase;
 }
@@ -63,11 +63,26 @@ nav {
 }
 
 main {
+  display: grid;
+  grid-template-columns: 5fr 5fr;
+  grid-template-rows: 5fr 5fr 15fr;
+  grid-gap: 1em;
+  max-width: 960px;
+  margin: 0 auto;
+  height: 350px;
+  text-align: center;
   background-color: black;
   color: white;
-  grid-column-start: 1;
-  grid-column-end: 4;
+  /*grid-column-start: 1;
+  grid-column-end: 4;*/
   /*height: 500px;*/
+}
+
+#edition {
+  color: white;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  text-transform: uppercase;
 }
 
 aside.benefit1, aside.benefit2, aside.benefit3 {
