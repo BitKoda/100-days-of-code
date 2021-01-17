@@ -2,16 +2,25 @@
 
 **Link to FreeCodeCamp work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/bitkoda)
 ---
+### Day 16(17): January 17, 2021
+
+**Today's Progress**
+1. Watched Ep 20 - 23 of Wes Bos's CSS Grid course.
+
+**Thoughts** Hmmm. for the layout needed in the RWD Ch2 exercise, might have to use Flexbox for the centred 2 column section of the page...
+
+**TODO**
+1. Finish watching Ep 24 & 25 of the CSS Grid video course.
+---
 ### Day 15(16): January 16, 2021
 
 **Today's Progress**
-1. Watched Ep 1 - 20 of Wes Bos's CSS Grid course.
+1. Watched Ep 1 - 19 of Wes Bos's CSS Grid course.
 
 **Thoughts** Wishing I'd started to watch this before attempting to tackle the RWD Ch2 exercise! Starting to finally grok CSS Grid!
 
 **TODO**
 1. Finish watching ep 20 - 25 of the CSS Grid video course.
-2. Create a better layout for RWD Ch2 exercise.
 ---
 ### Day 14(15): January 15, 2021
 
