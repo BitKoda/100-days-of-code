@@ -2,6 +2,16 @@
 
 **Link to FreeCodeCamp work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/bitkoda)
 ---
+### Day 17(18): January 19, 2021
+
+**Today's Progress**
+1. Watched last 2 episodes of Wes Bos's CSS Grid course.
+
+**Thoughts** Feeling much more optimistic about being able to tackle the RWD Ch2 exercise. It'll still be a challenge I think - particularly the sloping top and bottom of the black box in the centre of the page, but could I use an SVG image for that?...
+
+**TODO**
+1. Have another crack at the RWD Ch2 exercise!
+---
 ### Day 16(17): January 17, 2021
 
 **Today's Progress**
