@@ -2,6 +2,16 @@
 
 **Link to FreeCodeCamp work:** [FreeCodeCamp Profile](https://www.freecodecamp.org/bitkoda)
 ---
+### Day 18(19): January 20, 2021
+
+**Today's Progress**
+1. Started FCC Tribute Page project
+
+**Thoughts** Realised I'd been doing this #100daysofcode lark all wrong! Tutorials and courses do not count apparently. Restarting 1 Feb.
+
+**TODO**
+1. Continue with Tribute Page for now.
+---
 ### Day 17(18): January 19, 2021
 
 **Today's Progress**
